@@ -25,7 +25,7 @@
 
 I'm **Rishav Kumar**, a Computer Science graduate and a passionate **Full-Stack Web Developer** focused on building smart, clean, and responsive digital experiences.
 
-- 🌐 [Portfolio Website](https://rishabh0770.github.io/Portfolio/) – My personal website showcasing my work  
+- 🌐 [Portfolio Website](https://rishav-kumar-portfolio.netlify.app/) – My personal website showcasing my work  
 - 🛠️ Tech Stack: **HTML, CSS, JavaScript, PHP, MySQL**, with hands-on learning in **Python** & **React**  
 - 🎨 Obsessed with sleek UI/UX, clean code practices, and modern web standards  
 - 💬 Actively seeking **freelance projects** and **full-time roles** where I can contribute, grow, and innovate  
